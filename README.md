@@ -1,5 +1,3 @@
-# CREAR-PAGINA_GITHUB
-
 # Resultados electorales 
 
 ## Imágenes de los candidatos
